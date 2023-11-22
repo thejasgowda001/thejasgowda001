@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Angular and MEAN STACK PROJECTS
-- 🌱 I’m currently learning MEAN,DSA
+- 🌱 I’m currently learning MEAN,DSA, C++
 - 🤝 I’m looking to collaborate on MEAN STACK PROJECTS
 - 💬 Ask me about HTML & CSS, JS, REACT, ANGULAR
 - 📫 How to reach me : thejasabhi705@gmail.com
